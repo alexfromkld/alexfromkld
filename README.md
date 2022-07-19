@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a job in hi-tech
 - 📫 How to reach me: 
 -               Gmail alexshiyann@gmail.com
--            linkedIn <a>https://www.linkedin.com/in/alex-shiyan/</a>
+-            linkedIn https://www.linkedin.com/in/alex-shiyan/
 -                Inst @shiyan96
 
 <!---

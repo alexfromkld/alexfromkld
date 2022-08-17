@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexfromkld
 - 👀 I’m interested in coding and self improvment
-- 🌱 I’m currently learning React, mysql
+- 🌱 I’m currently learning JavaScript, React, Redux
 - 💞️ I’m looking for a job in hi-tech
 - 📫 How to reach me: 
 -               Gmail alexshiyann@gmail.com
